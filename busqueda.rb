@@ -10,7 +10,7 @@ ventas = {
     Septiembre: 25000,
     Octubre: 21500,
     Noviembre: 91000,
-    Diciebre: 21000
+    Diciembre: 21000
 }
 
 ARGV.each do |busqueda|
