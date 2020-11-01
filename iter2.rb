@@ -1,4 +1,4 @@
-def ventas_m_mes (venta)
+def ventas_mayores_mes (venta)
     venta.each do |k, v|
         if v > 45000
             print "#{k} "
@@ -22,4 +22,4 @@ ventas = {
     Diciebre: 21000
 }
 
-ventas_m_mes(ventas)
+ventas_(ventas)
